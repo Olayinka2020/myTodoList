@@ -1,0 +1,9 @@
+1-- add todos
+2-- remover/delete
+3-- update.
+4-- get all todos
+5-- get one
+
+-- title
+-- body
+-- duration
